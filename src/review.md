@@ -16,7 +16,7 @@ Before getting into the mistakes, I would like to say that your attempt at codin
 
 - Don't forget to define the type returned by the function on line 5. I would write the entire function as 'const caesarCipher = (encodedText: string, shift: number) : string => {... return decodedText}'.
 
-# Suggestions to help using good coding practices
+# Tips to assist you in developing good coding practices
 - When naming variables, the common convention in Javascript and ulitmately Typescript, is to use camelcase when naming variables. For example, decodedText, encodedText, caesarCipher and so on. I would suggest using this practice consistently throughout your code.
 
 - I would also suggest using variable names that are self-explanatory. Using 'string' as a name for a parameter meant to describe the encoded text on line 5 is not good practice. For more complex projects it might make it hard to read your code. I would suggest defining the parameters as follows, '(encodedText: string, shift: number)'. Remember, the encodedText should refer to the parameter and the decodedText should refer to the output (on your code, you defined the returned variable as 'encodedText' instead of 'decodedText' on line 10). 
