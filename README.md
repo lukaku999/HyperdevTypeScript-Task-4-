@@ -1,3 +1,7 @@
+# Overview 
+
+Please run the React App by following the instructions below. Once you run the react app, please check the console in your browser to see my own working version of the caesar cipher. The values in the console come from the file index.ts located inside the src folder. Also, inside the folder you will find a file called student_code.ts, which is an unedited version of your caesar cipher code and a file called review.md, which is a file of my code review of your code.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
