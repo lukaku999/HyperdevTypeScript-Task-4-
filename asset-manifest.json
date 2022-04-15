@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//lukaku999.github.io/TypeScript-Task-4-caesar-encryption-hyperdev/static/css/main.d5dfb266.css",
+    "main.js": "/http//lukaku999.github.io/TypeScript-Task-4-caesar-encryption-hyperdev/static/js/main.ccc33670.js",
+    "index.html": "/http//lukaku999.github.io/TypeScript-Task-4-caesar-encryption-hyperdev/index.html",
+    "main.d5dfb266.css.map": "/http//lukaku999.github.io/TypeScript-Task-4-caesar-encryption-hyperdev/static/css/main.d5dfb266.css.map",
+    "main.ccc33670.js.map": "/http//lukaku999.github.io/TypeScript-Task-4-caesar-encryption-hyperdev/static/js/main.ccc33670.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5dfb266.css",
+    "static/js/main.ccc33670.js"
+  ]
+}
