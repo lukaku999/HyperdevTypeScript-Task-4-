@@ -23,5 +23,5 @@ Before getting into the mistakes, I would like to say that your attempt at codin
   
 - The code from line 13 to 15 is redundant. I would suggest removing the if statement and just calculating the shift % 26 directly on line 33, instead of line 13. Plus, with the modulus, the if statement would not be needed from line 26 to 34.
 
-- First and foremost, there is no issue with you using a while loop, but a nice alternative that can produce cleaner code is using the reducer helper. If you refer to the index.ts in the src folder, the decoding is done with 10 lines (from line 10 to 20) as opposed to +20 line in your code. Array helpers can really clean your code. If you want to learn more about them go to: https://medium.com/swlh/array-helper-methods-in-es6-28fc5e5a5dc9.
+- First and foremost, there is no issue with you using a while loop, but a nice alternative that can produce cleaner code is using the reducer helper. If you refer to the index.ts in the src folder, the decoding is done with 10 lines (from line 10 to 20) as opposed to +20 lines in your code. Array helpers can really clean your code. If you want to learn more about them go to: https://medium.com/swlh/array-helper-methods-in-es6-28fc5e5a5dc9.
 
