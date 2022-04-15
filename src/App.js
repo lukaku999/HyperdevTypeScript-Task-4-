@@ -1,23 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './index.ts'
 function App() {
+  
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      Open the console log, the encoded text and decoded text are written in the console.
+      Go to 'index.ts'. The typescript file contains the a working code I wrote. In the src file, play around with encoded text input.
+      I also jotted down notes regarding your code in the md file called 'review.md'.
     </div>
   );
 }
